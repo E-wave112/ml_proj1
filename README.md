@@ -10,3 +10,5 @@ See the descriptions of each  notebook below:
 
 
 [WEATHER FORECAST](https://github.com/E-wave112/ml_proj1/blob/master/timeseries.ipynb) A time series forecsasting ARIMA model on predicting air quality over time. data set was obtained from the uci repository
+
+[SENTIMENT](https://github.com/E-wave112/ml_proj1/blob/master/nlp.ipynb) A NLP based porject analyzing various user tweets and classifying their sentiment as either being positive or negative.
