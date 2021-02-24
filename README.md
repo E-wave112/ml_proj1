@@ -18,3 +18,5 @@ See the descriptions of each  notebook below:
 [ALL THINGS SPOOKY](https://github.com/E-wave112/ml_proj1/blob/master/spooknlp.ipynb) The sppoky identification notebbok involves the use of natural language processing and text classification to determine which of the three most versed literature writers in all things spooky (names here) wrote that particular phrase
 
 [SPAM](https://github.com/E-wave112/ml_proj1/blob/master/spamclassifier.ipynb) A state of the art spam detection Machine Learning Model built with various algorithms such as Decision Trees,Random Forests, Support Vector Machines,Logistic Regression and K-Nearest-Neighbors
+
+[HAMOYE EXTERNSHIP](https://github.com/E-wave112/ml_proj1/blob/master/hamoyemlcodeclub.ipynb) A starter notebook on all the data analysis codes written during the 2021 hamoye Externship
