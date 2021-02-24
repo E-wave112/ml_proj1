@@ -22,3 +22,5 @@ See the descriptions of each  notebook below:
 [HAMOYE EXTERNSHIP](hhttps://github.com/E-wave112/ml_proj1/blob/master/titanicsets.ipynbTitttps://github.com/E-wave112/ml_proj1/blob/master/hamoyemlcodeclub.ipynb) A starter notebook on all the data analysis codes written during the 2021 hamoye Externship
 
 [TITAN](https://github.com/E-wave112/ml_proj1/blob/master/titanicsets.ipynb) A kaggle competiton notebook on the Titanic Dataset
+
+[COMPUTER-V](https://github.com/E-wave112/ml_proj1/blob/master/cvvcnn.ipynb) A primer into the world of computer vison via the mnist dataset !
