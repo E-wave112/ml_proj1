@@ -14,3 +14,5 @@ See the descriptions of each  notebook below:
 [SENTIMENT](https://github.com/E-wave112/ml_proj1/blob/master/nlp.ipynb) A NLP based porject analyzing various user tweets and classifying their sentiment as either being positive or negative.
 
 [POWER IN INDIA](https://github.com/E-wave112/ml_proj1/blob/master/tsaindia.ipynb) A notebook which involves the exploratory data analysis and visualization in order to gain insights on how the coronavirus pandemic affected power distribution in various indian cities
+
+[ALL THINGS SPOOKY](https://github.com/E-wave112/ml_proj1/blob/master/spooknlp.ipynb) The sppoky identification notebbok involves the use of natural language processing and text classification to determine which of the three most versed literature writers in all things spooky (names here) wrote that particular phrase
