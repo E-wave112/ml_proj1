@@ -9,4 +9,4 @@ See the descriptions of each  notebook below:
 [Zindi Hack](https://github.com/E-wave112/ml_proj1/blob/master/DSNZINDI.ipynb) A notebook containing the Machine Learning Model i built during the  2020 DSN AI Mini Hackathon on the zindi platform
 
 
-[WEATHER FORECAST](https://github.com/E-wave112/ml_proj1/blob/master/timeseries.ipynb) A time series forecsasting ARIMA model or the air quality data set obtained from the uci repository
+[WEATHER FORECAST](https://github.com/E-wave112/ml_proj1/blob/master/timeseries.ipynb) A time series forecsasting ARIMA model on predicting air quality over time. data set was obtained from the uci repository
