@@ -17,7 +17,7 @@ See the descriptions of each  notebook below:
 
 [POWER IN INDIA](https://github.com/E-wave112/ml_proj1/blob/master/tsaindia.ipynb) A notebook which involves the exploratory data analysis and visualization in order to gain insights on how the coronavirus pandemic affected power distribution in various indian cities
 
-[ALL THINGS SPOOKY](https://github.com/E-wave112/ml_proj1/blob/master/spooknlp.ipynb) The sppoky identification notebook involves the use of natural language processing and text classification to determine which of the three most versed literature writers in all things spooky and horrific (Edgar Allan Poe, Mary Shelley, and HP Lovecraft) wrote that particular phrase
+[ALL THINGS SPOOKY](https://github.com/E-wave112/ml_proj1/blob/master/spooknlp.ipynb) The spooky identification notebook involves the use of natural language processing and text classification to determine which of the three most versed literature writers in all things spooky and horrific (Edgar Allan Poe, Mary Shelley, and HP Lovecraft) wrote each phrase/text in the dataset.
 
 [SPAM](https://github.com/E-wave112/ml_proj1/blob/master/spamclassifier.ipynb) A state of the art spam detection Machine Learning Model built with various algorithms such as Decision Trees,Random Forests, Support Vector Machines,Logistic Regression and K-Nearest-Neighbors
 
