@@ -27,4 +27,4 @@ See the descriptions of each  notebook below:
 
 [COMPUTER-V](https://github.com/E-wave112/ml_proj1/blob/master/cvvcnn.ipynb) A primer into the world of computer vison via the mnist dataset !
 
-[M-Fake-News-Model]() A modified version of the trained nlp model for classifying a fake news from a genuine one.
+[M-Fake-News-Model](https://github.com/E-wave112/ml_proj1/blob/master/aws_nlp.ipynb) A modified version of the trained nlp model for classifying a fake news from a genuine one. check out the initial model [here](https://github.com/E-wave112/ml_proj_2/blob/master/fake_news_models.ipynb)
