@@ -26,3 +26,5 @@ See the descriptions of each  notebook below:
 [TITAN](https://github.com/E-wave112/ml_proj1/blob/master/titanicsets.ipynb) A kaggle competiton notebook on the Titanic Dataset
 
 [COMPUTER-V](https://github.com/E-wave112/ml_proj1/blob/master/cvvcnn.ipynb) A primer into the world of computer vison via the mnist dataset !
+
+[M-Fake-News-Model]() A modified version of the trained nlp model for classifying a fake news from a genuine one.
