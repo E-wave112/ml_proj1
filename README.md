@@ -1,7 +1,7 @@
 # ml_proj1
 Machine Learning and Artificial Intelligence
 
-This repository contains all my relevant codes and models i have worked on as regards Machine Learning, achieving state of the art results and high performance metrics depending on the type of problem to be solved
+This repository contains part of all my relevant codes and models i have worked on as regards Machine Learning, achieving state of the art results and high performance metrics depending on the type of problem to be solved
 
 Also checkout my other notebook repository [here](https://github.com/E-wave112/ml_proj_2)
 
@@ -23,7 +23,7 @@ See the descriptions of each  notebook below:
 
 [HAMOYE EXTERNSHIP](https://github.com/E-wave112/ml_proj1/blob/master/titanicsets.ipynbTitttps://github.com/E-wave112/ml_proj1/blob/master/hamoyemlcodeclub.ipynb) A starter notebook on all the data analysis codes written during the 2021 hamoye Externship
 
-[TITAN](https://github.com/E-wave112/ml_proj1/blob/master/titanicsets.ipynb) A kaggle competiton notebook on the Titanic Dataset
+[TITAN](https://github.com/E-wave112/ml_proj1/blob/master/titanicsets.ipynb) A [kaggle](https://www.kaggle.com/) competiton notebook on the Titanic Dataset
 
 [COMPUTER-V](https://github.com/E-wave112/ml_proj1/blob/master/cvvcnn.ipynb) A primer into the world of computer vison via the mnist dataset !
 
