@@ -1,7 +1,7 @@
 # ml_proj1
 Machine Learning and Artificial Intelligence
 
-This repository contains part of all my relevant codes and models i have worked on as regards Machine Learning, achieving state of the art results and high performance metrics depending on the type of problem to be solved
+This repository contains part of all my relevant codes and models I have worked on as regards Machine Learning, achieving state-of-the-art results and high-performance metrics depending on the type of problem to be solved
 
 Also checkout my other notebook repository [here](https://github.com/E-wave112/ml_proj_2)
 
