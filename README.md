@@ -19,11 +19,11 @@
 
 * [ALL THINGS SPOOKY](https://github.com/E-wave112/ml_proj1/blob/master/spooknlp.ipynb): The spooky author identification notebook involves the use of natural language processing and text classification to determine which of the three most versed literature writers in all things spooky and horrific (Edgar Allan Poe, Mary Shelley, and HP Lovecraft) wrote each phrase/text in the dataset.
 
-* [SPAM](https://github.com/E-wave112/ml_proj1/blob/master/spamclassifier.ipynb): A state of the art spam detection Machine Learning Model built with various algorithms such as Decision Trees,Random Forests, Support Vector Machines,Logistic Regression and K-Nearest-Neighbors
+* [SPAM](https://github.com/E-wave112/ml_proj1/blob/master/spamclassifier.ipynb): A state of the art spam detection Machine Learning Model built with various algorithms such as Decision Trees,Random Forests Classifiers, Support Vector Machines,Logistic Regression and K-Nearest-Neighbors
 
 * [HAMOYE EXTERNSHIP](https://github.com/E-wave112/ml_proj1/blob/master/titanicsets.ipynbTitttps://github.com/E-wave112/ml_proj1/blob/master/hamoyemlcodeclub.ipynb): A starter notebook on all the data analysis codes written during the 2021 hamoye Externship
 
-* [TITAN](https://github.com/E-wave112/ml_proj1/blob/master/titanicsets.ipynb): A [kaggle](https://www.kaggle.com/) competiton notebook on the Titanic Dataset
+* [TITAN](https://github.com/E-wave112/ml_proj1/blob/master/titanicsets.ipynb): A [kaggle](https://www.kaggle.com/) competiton notebook on the Titanic Survival Dataset
 
 * [COMPUTER-V](https://github.com/E-wave112/ml_proj1/blob/master/cvvcnn.ipynb): A primer into the world of computer vison via the mnist dataset !
 
