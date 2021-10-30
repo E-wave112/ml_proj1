@@ -11,9 +11,9 @@
 * [Zindi Hack](https://github.com/E-wave112/ml_proj1/blob/master/DSNZINDI.ipynb): A notebook containing the Machine Learning Model i built during the  2020 DSN AI Mini Hackathon on the zindi platform
 
 
-* [WEATHER FORECAST](https://github.com/E-wave112/ml_proj1/blob/master/timeseries.ipynb): A time series forecsasting ARIMA model on predicting air quality over time. data set was obtained from the uci repository
+* [WEATHER FORECAST](https://github.com/E-wave112/ml_proj1/blob/master/timeseries.ipynb): A time series forecasting ARIMA model on predicting air quality over time. data set was obtained from the [UCI](https://archive.ics.uci.edu/ml/datasets.php)  archive
 
-* [SENTIMENT](https://github.com/E-wave112/ml_proj1/blob/master/nlp.ipynb): A NLP based porject analyzing various user tweets and classifying their sentiment as either being positive or negative.
+* [SENTIMENT](https://github.com/E-wave112/ml_proj1/blob/master/nlp.ipynb): A NLP based project analyzing various user tweets and classifying their sentiment as either being positive or negative.
 
 * [POWER IN INDIA](https://github.com/E-wave112/ml_proj1/blob/master/tsaindia.ipynb): A notebook which involves the exploratory data analysis and visualization in order to gain insights on how the coronavirus pandemic affected power distribution in various indian cities
 
